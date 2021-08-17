@@ -6,7 +6,7 @@ public class Area_and_PerimeterTest {
     @Test
     void ToReturnAreaandPerimeterofFourandSix()
     {
-        Area_and_Perimeter obj = new Area_and_Perimeter(4,6);
+        Area_And_Perimeter obj = new Area_And_Perimeter(4,6);
         int expectedArea = 24;
         int expectedPerimeter = 20;
         int actualArea = obj.Area();
@@ -18,7 +18,7 @@ public class Area_and_PerimeterTest {
     @Test
     void ToReturnAreaandPerimeteroftenandtwenty()
     {
-        Area_and_Perimeter obj = new Area_and_Perimeter(10,20);
+        Area_And_Perimeter obj = new Area_And_Perimeter(10,20);
         int expectedArea = 200;
         int expectedPerimeter = 60;
         int actualArea = obj.Area();
@@ -30,7 +30,7 @@ public class Area_and_PerimeterTest {
     @Test
     void ToReturnAreaandPerimeterofminustenandminustwenty()
     {
-        Area_and_Perimeter obj = new Area_and_Perimeter(-10,-20);
+        Area_And_Perimeter obj = new Area_And_Perimeter(-10,-20);
         int expectedArea = 200;
         int expectedPerimeter = -60;
         int actualArea = obj.Area();

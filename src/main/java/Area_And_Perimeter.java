@@ -1,7 +1,7 @@
-public class Area_and_Perimeter {
+public class Area_And_Perimeter {
     int Length;
     int Breadth;
-    public Area_and_Perimeter(int Length,int Breadth)
+    public Area_And_Perimeter(int Length,int Breadth)
     {
         this.Length=Length;
         this.Breadth=Breadth;
