@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Area_and_PerimeterTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-08-17T16:19:11" hostname="LAPTOP-B8NCDGPA" time="0.045">
+  <properties/>
+  <testcase name="ToReturnAreaandPerimeterofFourandSix()" classname="Area_and_PerimeterTest" time="0.038"/>
+  <testcase name="ToReturnAreaandPerimeterofminustenandminustwenty()" classname="Area_and_PerimeterTest" time="0.002"/>
+  <testcase name="ToReturnAreaandPerimeteroftenandtwenty()" classname="Area_and_PerimeterTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
